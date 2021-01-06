@@ -49,7 +49,7 @@ p {
   height: auto;
   font-size: 60px;
   text-align: center;
-  color: rgba(25, 0, 255, 0.644);
+  color: rgba(25, 0, 255, 0.774);
 }
 
 @media (max-width: 750px) {
