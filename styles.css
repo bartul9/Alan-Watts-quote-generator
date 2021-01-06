@@ -1,0 +1,56 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(0, 204, 255, 0.274);
+  font-family: "Redressed", cursive;
+  background-image: url(https://www.godhdwallpapers.com/wallpapers/2019/03/buddha-4k-white-image-thailand-high-quality-wallpapers.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: white;
+  margin-top: 50px;
+}
+
+#window {
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+  width: 850px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+}
+
+button {
+  background-color: rgba(64, 224, 208, 0);
+  font-family: "Redressed", cursive;
+  font-size: 30px;
+  border: none;
+  color: rgb(255, 255, 255);
+}
+
+button:hover {
+  color: rgba(255, 240, 34, 0.603);
+  cursor: pointer;
+}
+button:focus {
+  outline: 0;
+}
+p {
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 840px;
+  height: auto;
+  font-size: 60px;
+  text-align: center;
+  color: rgba(25, 0, 255, 0.644);
+}
